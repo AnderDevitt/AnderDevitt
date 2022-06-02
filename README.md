@@ -50,9 +50,7 @@ I'm a junior Full Stack Developer in Brisbane Australia, interested in front-end
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50"/>
-  
-  
-  </div>
+</div>
   
 ### :fire: My Stats :
 
