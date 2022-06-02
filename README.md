@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
   </div>
   <h1>Andrew Devitt</h1>
   <div id="badges">
