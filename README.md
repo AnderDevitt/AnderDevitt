@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-I'm a Full Stack Developer in Brisbane Australia.
+I'm a junior Full Stack Developer in Brisbane Australia, interested in front-end and back-end programming.
 
-:telescope:  I'm currently completing a Diploma of IT with Coder Academy (finish date in August 2022)
+- :telescope:  I'm currently completing a Diploma of IT with Coder Academy (finish date in August 2022)
+- :seedling: I completed my bachelor's degree in IT in 2002
+- :zap: My second language is Japanese, and I lived and worked in Japan for almost 10 years
 
 ### :hammer_and_wrench: Languages and Tools :
 
